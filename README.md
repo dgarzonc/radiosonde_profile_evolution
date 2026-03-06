@@ -1,7 +1,6 @@
 # Radiosonde Vertical Profile Evolution
 
-**David Garzón Casas** — Physicist, Mg. in Meteorology (Colombia)  
-`dgarzonc@unal.edu.co` · March 2026
+Author: David Garzón Casas (dgarzonc@unal.edu.co)  - March 2026
 
 ---
 
