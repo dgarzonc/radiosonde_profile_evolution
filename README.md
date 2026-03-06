@@ -22,7 +22,7 @@ and copied manually into `data/climatology/`.
 ## Installation
 
 ```bash
-git clone https://github.com/<your-username>/radiosonde_profile_evolution.git
+git clone https://github.com/dgarzonc/radiosonde_profile_evolution.git
 cd radiosonde_profile_evolution
 pip install -r requirements.txt
 ```
